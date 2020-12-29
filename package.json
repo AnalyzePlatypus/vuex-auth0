@@ -1,6 +1,6 @@
 {
-  "name": "auth0-vuex",
-  "version": "0.1.0",
+  "name": "vuex-auth0",
+  "version": "1.0.0",
   "description": "Vuex Module for Auth0 Universal Login",
   "main": "index.js",
   "scripts": {},

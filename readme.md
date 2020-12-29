@@ -1,4 +1,4 @@
-# Auth0-Vuex
+# Vuex-Auth0
 
 A Vuex module for easily logging in with the Auth0 SPA SDK.
 
@@ -37,6 +37,12 @@ new Vue({
 }).$mount('#app')
 
 store.dispatch("auth0/login");
+```
+
+## Install
+
+```bash
+npm i vuex-auth0
 ```
 
 ## API
