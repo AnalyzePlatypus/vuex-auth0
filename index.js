@@ -8,6 +8,7 @@ const state = {
 };
 
 export const getters = {
+  client: state => state.auth0,
   isLoggedIn: state => state.isLoggedIn,
   currentAuthHeaders: state => state.currentAuthHeaders,
   user: state => state.user 
